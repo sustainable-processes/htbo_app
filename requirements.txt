@@ -1,0 +1,2 @@
+git+https://github.com/sustainable-processes/summit.git
+streamlit
